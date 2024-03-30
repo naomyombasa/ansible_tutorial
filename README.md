@@ -1,4 +1,4 @@
 # ansible_tutorial
 
-tHIS IS MY AWESOM aNSIBLE REPO
+This is my awesome ansible Tutorial
 
