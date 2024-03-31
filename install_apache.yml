@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: true
+  tasks:
+
+  - name : update respiratory index
+    dnf:
+      update_cache: yes
+
+  - name: install cockpit package
+    yum:
+      name: cockpit
+
